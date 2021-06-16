@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-12T01:23:42" hostname="DESKTOP-BS45UV7" time="0.194">
+  <properties/>
+  <testcase name="givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency" classname="MyHashMapTest" time="0.194"/>
+  <system-out><![CDATA[MyHashMap{myLinkedList=MyLinkedList{head=MyMapNode{data=to, value=2, next=MyMapNode{data=be, value=2, next=MyMapNode{data=or, value=1, next=MyMapNode{data=not, value=1, next=null}}}}, tail=MyMapNode{data=not, value=1, next=null}}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
