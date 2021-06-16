@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyHashMapParanoidTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-16T04:26:24" hostname="DESKTOP-BS45UV7" time="0.048">
+  <properties/>
+  <testcase name="givenALargeSentenceWhenWordsAreAddedToListShouldReturnParanoidWordFrequency" classname="MyHashMapParanoidTest" time="0.048"/>
+  <system-out><![CDATA[MyHashMapParanoid@2e8c4c40
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
