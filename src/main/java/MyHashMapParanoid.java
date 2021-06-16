@@ -41,4 +41,17 @@ class MyHashMapParanoid<T, V> {
             myMapNode.setValue(value);
         }
     }
+
+    public V remove(T key) {
+        int index = getBucketIndex(key);
+        MyLinkedList myLinkedList = myBucketArray.get(index);
+        MyMapNode<T, V> myMapNode = (MyMapNode<T, V>) myLinkedList.searchNode((Comparable) key);
+        if (myMapNode != null) {
+            V deletedValue = myMapNode.getValue();
+            myLinkedList.delete((Comparable) key);
+            return deletedValue;
+        } else
+            return null;
+    }
+
 }
