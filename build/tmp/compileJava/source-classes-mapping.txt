@@ -4,5 +4,7 @@ INode.java
  INode
 MyLinkedList.java
  MyLinkedList
+MyHashMapParanoid.java
+ MyHashMapParanoid
 MyHashMap.java
  MyHashMap

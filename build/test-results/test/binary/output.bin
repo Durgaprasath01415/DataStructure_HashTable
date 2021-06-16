@@ -1,1 +1,1 @@
-èMyHashMap{myLinkedList=MyLinkedList{head=MyMapNode{data=to, value=2, next=MyMapNode{data=be, value=2, next=MyMapNode{data=or, value=1, next=MyMapNode{data=not, value=1, next=null}}}}, tail=MyMapNode{data=not, value=1, next=null}}}
+MyHashMapParanoid@2e8c4c40
